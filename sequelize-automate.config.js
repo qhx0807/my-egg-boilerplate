@@ -1,5 +1,10 @@
 'use strict';
 
+/**
+ * 自动生成表对应的model
+ * npm run automate
+ */
+
 module.exports = {
   dbOptions: {
     database: 'test',
